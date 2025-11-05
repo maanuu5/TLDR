@@ -1,0 +1,4 @@
+project_id = "ncsdggzshfqbdwifsdac"
+
+[functions.summarize-linkedin]
+verify_jwt = false
